@@ -43,10 +43,16 @@ section {
 
 /* Style the navbar */
 nav {
-  background-color: #c42b31;
+  background-color: white;
   border: 1px solid black;
   width: 100%;
   height: 50px;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 ul {
@@ -54,7 +60,11 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
+}
+
+#dropdownMenu {
   background-color: #ffffff;
+  color: black;
 }
 
 li {
@@ -62,10 +72,11 @@ li {
   color: black;
 }
 
-li a,
+
 #footer-links a {
-  display: block;
-  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   padding: 14px 16px;
   text-decoration: none;
   color: black;
