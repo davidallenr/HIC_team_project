@@ -78,7 +78,7 @@ li {
 }
 
 #top-text {
-  position: fixed;
+  position: relative;
   top: 30%;
   left: 50%;
   transform: translateX(-50%);
@@ -87,7 +87,7 @@ li {
 }
 
 #picture-box {
-  position: fixed;
+  position: relative;
   top: 35%;
   left: 50%;
   transform: translateX(-50%);
@@ -117,7 +117,7 @@ li {
 }
 
 #bottom-text {
-  position: fixed;
+  position: relative;
   top: 70%;
   left: 50%;
   transform: translateX(-50%);
