@@ -139,6 +139,7 @@ li {
   display: flex;
   width: 75%;
   height: 33%;
+  min-height: 200px;
   background-color: #b46e6b;
   border: 1px solid black;
   padding-top: 10px;
@@ -192,6 +193,18 @@ li {
   padding: 14px 16px;
   text-decoration: none;
   color: black;
+}
+/* Join our team */
+#team-img {
+  padding: 10px 15px;
+}
+
+#small-btn-apply {
+  width: 50%;
+  margin: 50px;
+  max-width: 150px;
+  border: 5px solid black;
+  font-weight: bolder;
 }
 
 /* SVG Icon changes */
