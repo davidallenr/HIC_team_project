@@ -31,3 +31,9 @@ To get a local copy up and running follow these simple example steps.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+## Differences
+1. Content isn't vertically centered on most pages, due to lack of HTML/CSS experience.
+2. Footer items aren't centered or aligned, again due to lack of HTML/CSS experience.
+3. Some graphics are different because we couldn't find them again online and didn't save them.
+4. Footer items are no longer links because we realized that they don't actually need to link to anything.
